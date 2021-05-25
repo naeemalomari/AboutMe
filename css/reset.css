@@ -32,10 +32,6 @@ body {
 	line-height: 4;
     background-color:cadetblue;
     font-style: italic ;
-    
-}
-ol, ul {
-	list-style: none;
 }
 blockquote, q {
 	quotes: none;
